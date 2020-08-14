@@ -16,6 +16,8 @@ uses an online gamified learning and development environment, [SourceAcademy](ht
 
 This repository will be mainly used to store my Avenger teaching materials.
 
+- [Studio S2](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_2_slides.pdf)
+
 
 ## Licence
 [GNU General Public Licence 3.0](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/LICENSE)
