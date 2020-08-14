@@ -14,7 +14,12 @@ uses an online gamified learning and development environment, [SourceAcademy](ht
 
 ## Teaching Materials
 
-This repository will be mainly used to store my Avenger teaching materials.
+This repository will be mainly used to store my Avenger teaching materials. I'm
+using GitHub instead of Google Drive as it's easier for me to see the edits I've
+made.
+
+To view any of the slides, simply click on the links below to view them in the
+browser. If you wish to copy text from the PDFs, feel free to download them!
 
 - [Studio S2](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_2_slides.pdf)
 
