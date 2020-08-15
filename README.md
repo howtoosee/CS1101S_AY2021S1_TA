@@ -6,6 +6,7 @@ School of Computing
 
 National University of Singapore
 
+---
 
 [CS1101S Programming Methodology](https://www.comp.nus.edu.sg/~cs1101s/ "Module page") is a module taught by the Department of Computer Science at the School of Computing, NUS. 
 
