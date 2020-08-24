@@ -26,6 +26,7 @@ To view any of the slides, simply click on the links below to view them in the
 browser. If you wish to copy text from the PDFs, feel free to download them!
 
 - [Studio S2](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_2_slides.pdf)
+- [Studio S3](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_3_slides.pdf)
 
 
 ## Licence
