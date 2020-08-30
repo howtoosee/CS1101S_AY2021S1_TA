@@ -27,6 +27,7 @@ browser. If you wish to copy text from the PDFs, feel free to download them!
 
 - [Studio S2](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_2_slides.pdf)
 - [Studio S3](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_3_slides.pdf)
+- [Studio_S4](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_4_slides.pdf)
 
 
 ## Licence
