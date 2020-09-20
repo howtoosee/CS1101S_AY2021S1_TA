@@ -25,11 +25,11 @@ made.
 To view any of the slides, simply click on the links below to view them in the
 browser. If you wish to copy text from the PDFs, feel free to download them!
 
-- [Studio S2](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_2_slides.pdf)
-- [Studio S3](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_3_slides.pdf)
-- [Studio_S4](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_4_slides.pdf)
-- [Studio_S5](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_5_slides.pdf)
-- [Studio_S6](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/studio_slides/studio_6_slides.pdf)
+- [Studio S2](./studio_slides/studio_2_slides.pdf)
+- [Studio S3](./studio_slides/studio_3_slides.pdf)
+- [Studio_S4](./studio_slides/studio_4_slides.pdf)
+- [Studio_S5](./studio_slides/studio_5_slides.pdf)
+- [Studio_S6](./studio_slides/studio_6_slides.pdf)
 
 ## Licence
 [GNU General Public Licence 3.0](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/LICENSE)
