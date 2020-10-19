@@ -33,6 +33,7 @@ browser. If you wish to copy text from the PDFs, feel free to download them!
 - [Recess Week Remedial](./studio_slides/recess_week_remedial_slides.pdf)
 - [Studio S8](./studio_slides/studio_8_slides.pdf)
 - [Studio S9](./studio_slides/studio_9_slides.pdf)
+- [Studio S10](./studio_slides/studio_10_slides.pdf)
 
 ## Licence
 [GNU General Public Licence 3.0](https://github.com/howtoosee/CS1101S_AY2021S1_TA/blob/master/LICENSE)
